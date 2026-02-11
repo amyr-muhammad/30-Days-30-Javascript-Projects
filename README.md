@@ -3,7 +3,7 @@
   ([Counter App](https://days30project30project1js.surge.sh/)
 
 ## 02-JavaScript Password Generator App 
-  ([Password Generator App](https://days30project30projectsjs.surge.sh/)
+  ([Password Generator App](https://days30project30project2js.surge.sh/)
 
 ### 📂 Repository Goal
 

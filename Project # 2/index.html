@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Password Generator</title>
+    <link rel="shortcut icon" href="images\password.png" type="image/x-icon">
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css"
+    />
+  </head>
+  <body class="bg-black d-flex flex-column min-vh-100">
+    <header>
+      <h4 class="bg-primary text-white text-center fs-3 display-6 p-3">
+        30 Days 30 JS Projects Challenge Day 02
+      </h4>
+    </header>
+
+    <main class="flex-grow-1 d-flex justify-content-center align-items-center">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-auto border border-primary rounded">
+            <h4 class="text-white p-4 min-vw-50">Password Generator App</h4>
+            <div class="d-flex flex-column gap-3">
+              <input
+                type="text"
+                class="form-control"
+                placeholder="Enter Password Length"
+                id="inputVal"
+              />
+              <button
+                class="btn btn-primary rounded-pill w-100"
+                id="generatePasswordBtn"
+              >
+                Generate Password
+              </button>
+              <p
+                class="bg-white border border-primary-subtle rounded d-flex justify-content-between align-items-center "
+                
+              >
+                <span id="generatedpassword" class="ps-3">Your Password</span>
+                <button class="btn border-0" id="copyBtn"><i class="fa-solid fa-copy"></i></button>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <footer></footer>
+
+    <script src="script.js"></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://kit.fontawesome.com/957e6a4da2.js"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      type="text/javascript"
+      src="https://cdn.jsdelivr.net/npm/toastify-js"
+    ></script>
+  </body>
+</html>

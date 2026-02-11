@@ -1,6 +1,9 @@
 # 30-Days-30-Javascript-Projects
-## 01-JavaScript Counter App 🔢
+## 01-JavaScript Counter App 
   ([Counter App](https://days30project30project1js.surge.sh/)
+
+## 02-JavaScript Password Generator App 
+  ([Password Generator App](https://days30project30projectsjs.surge.sh/)
 
 ### 📂 Repository Goal
 

@@ -6,7 +6,7 @@
   ([Password Generator App](https://days30project30project2js.surge.sh/)
 
 ## 03-Javascript Stop Watch App
-  ([Password Generator App](https://days30project30project2js.surge.sh/)
+  ([Stop Watch App](https://days30project30project3js.surge.sh/)
 
 
 ### 📂 Repository Goal

@@ -5,6 +5,10 @@
 ## 02-JavaScript Password Generator App 
   ([Password Generator App](https://days30project30project2js.surge.sh/)
 
+## 03-Javascript Stop Watch App
+  ([Password Generator App](https://days30project30project2js.surge.sh/)
+
+
 ### 📂 Repository Goal
 
 By the end of this challenge, this repository will contain 30 JavaScript projects showcasing growth in logic building, UI handling, and problem-solving.

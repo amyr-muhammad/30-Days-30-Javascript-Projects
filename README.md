@@ -13,6 +13,10 @@
 
 ## 05-Javascript Age Calculator App
   ([Age Calculator App](http://days30project30project5.surge.sh/)
+  
+## 05-Javascript Dice Roll Simulator
+
+  ([Dice Roll Simulator](http://days30project30project6js.surge.sh/)
 
 
 ### 📂 Repository Goal

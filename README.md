@@ -21,6 +21,10 @@
 ## 07-Javascript Login Page
 
   ([Login Page](http://days30project30project7js.surge.sh/)
+  
+## 08-Javascript Weight Converter
+
+  ([WeightConverter](http://days30project30project8js.surge.sh/)
 
 
 ### 📂 Repository Goal

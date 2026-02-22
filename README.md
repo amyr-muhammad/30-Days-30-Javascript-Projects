@@ -30,6 +30,10 @@
 
   ([Temperature Converter](http://days30project30project9js.surge.sh/)
 
+## 10-Javascript Character Counter
+
+  ([Character Counter](http://days30project30project10js.surge.sh/)
+
 
 ### 📂 Repository Goal
 

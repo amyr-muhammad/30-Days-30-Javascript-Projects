@@ -33,6 +33,10 @@
 ## 10-Javascript Character Counter
 
   ([Character Counter](http://days30project30project10js.surge.sh/)
+  
+## 11-Javascript Email Masker
+
+  ([Email Masker](http://days30project30project11js.surge.sh/)
 
 
 ### 📂 Repository Goal

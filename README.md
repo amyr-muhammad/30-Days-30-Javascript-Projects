@@ -38,6 +38,10 @@
 
   ([Email Masker](http://days30project30project11js.surge.sh/)
 
+## 12-Javascript Digital Clock
+
+  ([Digital Clock](http://days30project30project12js.surge.sh/)
+
 
 ### 📂 Repository Goal
 

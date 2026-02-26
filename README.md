@@ -42,6 +42,10 @@
 
   ([Digital Clock](http://days30project30project12js.surge.sh/)
 
+## 13-Javascript Multiplication Game
+
+  ([Multiplication Game](http://days30project30project13js.surge.sh/)
+
 
 ### 📂 Repository Goal
 

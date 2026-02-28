@@ -46,6 +46,10 @@
 
   ([Multiplication Game](http://days30project30project13js.surge.sh/)
 
+## 14-Javascript Palindromes Checker
+
+  ([Palindromes Checker](http://days30project30project14.surge.sh/)
+
 
 ### 📂 Repository Goal
 

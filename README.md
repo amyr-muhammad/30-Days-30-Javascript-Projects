@@ -50,6 +50,14 @@
 
   ([Palindromes Checker](http://days30project30project14.surge.sh/)
 
+## 15-Javascript Birthday counter
+
+  ([Birthday Counter](http://days30project30project15js.surge.sh/)
+  
+## 16-Javascript Alarm
+
+  ([Alarm](http://days30project30project16js.surge.sh/)
+
 
 ### 📂 Repository Goal
 

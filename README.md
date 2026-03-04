@@ -58,6 +58,10 @@
 
   ([Alarm](http://days30project30project16js.surge.sh/)
 
+## 17-Javascript Tip Calculator
+
+  ([Tip alcualtor](http://days30project30project17js.surge.sh/)
+
 
 ### 📂 Repository Goal
 

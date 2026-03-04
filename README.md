@@ -60,7 +60,7 @@
 
 ## 17-Javascript Tip Calculator
 
-  ([Tip alcualtor](http://days30project30project17js.surge.sh/)
+  ([Tip calcualtor](http://days30project30project17js.surge.sh/)
 
 
 ### 📂 Repository Goal

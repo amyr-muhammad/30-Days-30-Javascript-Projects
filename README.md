@@ -62,6 +62,10 @@
 
   ([Tip calcualtor](http://days30project30project17js.surge.sh/)
 
+## 18-Javascript Random Color Generator
+
+  ([Color Generator](http://days30project30project18js.surge.sh/)
+
 
 ### 📂 Repository Goal
 

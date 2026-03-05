@@ -1,0 +1,9 @@
+#random-color{
+    position: relative;
+    width: 100%;
+    max-width: 14em;
+    height: 3em;
+    background-color: #ffffff;
+    border-radius: 10px;
+    overflow: hidden;
+}

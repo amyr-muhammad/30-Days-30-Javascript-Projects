@@ -66,6 +66,10 @@
 
   ([Color Generator](http://days30project30project18js.surge.sh/)
 
+## 19-Javascript Random gradient Generator
+
+  ([Gradient Generator](http://days30project30project19js.surge.sh/)
+
 
 ### 📂 Repository Goal
 

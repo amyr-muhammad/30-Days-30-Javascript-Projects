@@ -70,7 +70,7 @@
 
   ([Gradient Generator](http://days30project30project19js.surge.sh/)
   
-## 17-Javascript BMI Calculator
+## 20-Javascript BMI Calculator
 
   ([BMI calcualtor](http://days30project30project20js.surge.sh/)
 

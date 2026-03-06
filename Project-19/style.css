@@ -1,0 +1,8 @@
+#random-color{
+    position: relative;
+    width: 100%;
+    max-width: 14em;
+    height: 4em;
+    border-radius: 10px;
+   background-image: linear-gradient(to left, white, black);
+}

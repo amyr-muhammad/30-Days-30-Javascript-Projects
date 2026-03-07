@@ -74,6 +74,14 @@
 
   ([BMI calcualtor](http://days30project30project20js.surge.sh/)
 
+## 21-Javascript Even Odd Checker
+
+  ([Even Odd checker](http://days30project30project21js.surge.sh/)
+
+## 22-Javascript Guess the Number
+
+  ([Guess the Number](http://days30project30project22js.surge.sh/)
+
 
 ### 📂 Repository Goal
 

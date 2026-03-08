@@ -82,6 +82,14 @@
 
   ([Guess the Number](http://days30project30project22js.surge.sh/)
 
+## 23-Javascript Percentage Calculator
+
+  ([Percentage Calculator](http://days30project30project22js.surge.sh/)
+
+## 24-Javascript Percentage + Grade Calculator
+
+  ([Percentage + Grade Calculator](http://days30project30project24js.surge.sh/)
+
 
 ### 📂 Repository Goal
 

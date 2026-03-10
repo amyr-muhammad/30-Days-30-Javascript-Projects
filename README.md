@@ -90,6 +90,10 @@
 
   ([Percentage + Grade Calculator](http://days30project30project24js.surge.sh/)
 
+## 25-Javascript Factorial Calculator
+
+  ([Factorial Calculator](http://days30project30project25js.surge.sh/)
+
 
 ### 📂 Repository Goal
 

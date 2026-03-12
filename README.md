@@ -94,7 +94,26 @@
 
   ([Factorial Calculator](http://days30project30project25js.surge.sh/)
 
+## 26-Javascript Math Table Calculator
 
+  ([Math Table Calculator](http://days30project30project26js.surge.sh/)
+  
+## 27-Javascript Discount Calculator
+
+  ([Discount Calculator](http://days30project30project27js.surge.sh/)
+
+## 28-Javascript Joke Generator
+
+  ([Joke Generator](http://days30project30project28js.surge.sh/)
+
+## 29-Javascript Quote Generator
+
+  ([Quote Generator](http://days30project30project29js.surge.sh/)
+
+## 30-Javascript Calculator
+
+  ([Calculator](http://days30project30project30js.surge.sh/)
+  
 ### 📂 Repository Goal
 
 By the end of this challenge, this repository will contain 30 JavaScript projects showcasing growth in logic building, UI handling, and problem-solving.

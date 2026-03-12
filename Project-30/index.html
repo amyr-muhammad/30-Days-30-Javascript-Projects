@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Calculator App</title>
+    <link rel="shortcut icon" href="image/calculator.png" type="image/x-icon" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body class="bg-gradient bg-dark min-vh-100 d-flex flex-column">
+    <header>
+      <h4
+        class="display-1 fs-3 text-white text-center bg-gradient bg-black p-2"
+      >
+        30 Days 30 JS Projects Challenge Day 30
+      </h4>
+    </header>
+    <main class="flex-grow-1 d-flex align-items-center">
+      <div
+        class="container"
+        style="position: relative; width: 100%; max-width: 55rem"
+      >
+        <div class="row justify-content-center">
+          <!--Main and one column-->
+
+          <div
+            class="col-8 col-md-4 col-lg-4 bg-gradient bg-secondary rounded p-2"
+          >
+            <!--Screen of Calculator-->
+
+            <div
+              class="text-white bg-gradient bg-black text-end rounded pe-2 fs-3 display-6 "
+              style="height: 6rem"
+            >
+              <p id="screen"></p>
+              <p id="result"></p>
+            </div>
+
+            <div>
+              <div class="row g-1 mt-1">
+                <!-- Remove everything from Screen of Calculator-->
+
+                <div class="col-6">
+                  <button class="btn btn-danger w-100" id="clear">C</button>
+                </div>
+                <!-- Division of Calculator-->
+
+                <div class="col-3">
+                  <button class="btn btn-dark w-100">/</button>
+                </div>
+                <!-- Multiplication of Calculator-->
+
+                <div class="col-3">
+                  <button class="btn btn-dark w-100">*</button>
+                </div>
+              </div>
+
+              <!--row number 2-->
+
+              <div class="row g-1 mt-1">
+                <!-- number seven of Calculator-->
+
+                <div class="col-3">
+                  <button class="btn btn-light w-100">7</button>
+                </div>
+                <!-- number eight of Calculator-->
+
+                <div class="col-3">
+                  <button class="btn btn-dark w-100">8</button>
+                </div>
+                <!-- number nine of Calculator-->
+
+                <div class="col-3">
+                  <button class="btn btn-dark w-100">9</button>
+                </div>
+                <!-- minus of Calculator-->
+
+                <div class="col-3">
+                  <button class="btn btn-dark w-100">-</button>
+                </div>
+              </div>
+
+              <!--row number 3-->
+
+              <div class="row g-1 mt-1">
+                <!-- number four of Calculator-->
+
+                <div class="col-3">
+                  <button class="btn btn-light w-100">4</button>
+                </div>
+                <!-- five eight of Calculator-->
+
+                <div class="col-3">
+                  <button class="btn btn-dark w-100">5</button>
+                </div>
+                <!-- number six of Calculator-->
+
+                <div class="col-3">
+                  <button class="btn btn-dark w-100">6</button>
+                </div>
+                <!-- Addition of Calculator-->
+
+                <div class="col-3">
+                  <button class="btn btn-dark w-100">+</button>
+                </div>
+              </div>
+
+              <!--row number 4-->
+
+              <div class="row g-1 mt-1">
+                <!-- number one of Calculator-->
+
+                <div class="col-3">
+                  <button class="btn btn-light w-100">1</button>
+                </div>
+                <!-- number two of Calculator-->
+
+                <div class="col-3">
+                  <button class="btn btn-dark w-100">2</button>
+                </div>
+                <!-- number three of Calculator-->
+
+                <div class="col-3">
+                  <button class="btn btn-dark w-100">3</button>
+                </div>
+                <!-- number dot of Calculator-->
+
+                <div class="col-3">
+                  <button class="btn btn-dark w-100">.</button>
+                </div>
+              </div>
+
+              <!--row number 5-->
+
+              <div class="row g-1 mt-1">
+                <!-- number zero of Calculator-->
+
+                <div class="col-3">
+                  <button class="btn btn-light w-100">0</button>
+                </div>
+                <!-- number double zero of Calculator-->
+
+                <div class="col-3">
+                  <button class="btn btn-dark w-100">00</button>
+                </div>
+                <!-- number dot of Calculator-->
+
+                <div class="col-3">
+                  <button class="btn btn-dark w-100">.</button>
+                </div>
+                <!-- is equal to of Calculator-->
+
+                <div class="col-3">
+                  <button class="btn btn-dark w-100">=</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <script src="script.js"></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>
